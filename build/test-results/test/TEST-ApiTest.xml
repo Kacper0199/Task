@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-14T01:28:28" hostname="LAPTOP-2U7CKOLQ" time="4.351">
+  <properties/>
+  <testcase name="productTest()" classname="ApiTest" time="0.626"/>
+  <testcase name="cartMaxTest()" classname="ApiTest" time="0.591"/>
+  <testcase name="furthestLivingUsersTest()" classname="ApiTest" time="3.133"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
